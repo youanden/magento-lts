@@ -30,7 +30,7 @@ Download the latest archive and extract it, clone the repo, or add a composer de
 
 ## Translations
 
-There are some new or changed tranlations, if you want add them to your locale pack please check:
+There are some new or changed translations, if you want to add them to your locale pack please check:
 
 - `app/locale/en_US/*_LTS.csv`
 
